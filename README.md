@@ -1,0 +1,2 @@
+# gulpready
+ready gulp project 
